@@ -71,7 +71,7 @@ Multi-threaded-Factorial-Calculator/
 
 ## 🖼️ Application Interface & Performance Chart
 
-![Screenshot]()
+![Screenshot](https://github.com/Cuong312004/Multi-threaded-Factorial-Calculator/blob/main/image/1.png)
 
 - The line chart displays execution time (in milliseconds) for computing 10! using various thread counts (1, 5, 10, 50, 100, 500).
 
