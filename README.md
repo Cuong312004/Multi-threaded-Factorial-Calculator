@@ -19,9 +19,6 @@ A Windows Forms application that calculates large factorials using multi-threadi
 - **BigInteger** for high-precision factorial computation
 - **Multi-threading** (`Task.Run`, `Parallel`, async/await)
 
-## 📸 Screenshots
-
-> _You can add a screenshot here for better presentation_
 
 ## 🔄 How It Works
 
